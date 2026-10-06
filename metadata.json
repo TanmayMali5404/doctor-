@@ -1,0 +1,6 @@
+{
+  "name": "ChedoCare Clinical & Appointment Platform",
+  "description": "Multi-clinic and multi-doctor scheduling, medical records, and appointment management system with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
